@@ -10,7 +10,7 @@
             }
         ]
     },
-    "oauthScopes": ["https://www.googleapis.com/auth/chat.spaces"],
+    "oauthScopes": ["https://www.googleapis.com/auth/chat.messages.readonly"],
     "exceptionLogging": "STACKDRIVER",
     "runtimeVersion": "V8"
 }
